@@ -8,7 +8,7 @@ function Main() {
 	const tasks: any = useSelector((state: any) => state.task.tasklist);
 	
 	const task = {
-		header: "String",
+		header: "Str",
 		desc: "String",
 		date: "Date",
 		length: 2,

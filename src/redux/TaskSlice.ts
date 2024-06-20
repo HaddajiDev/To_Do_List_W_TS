@@ -1,6 +1,6 @@
 import { createSlice } from "@reduxjs/toolkit";
 
- export enum priority{
+export enum priority{
 	low = "low",
 	meduim = "medium",
 	high = "high"
